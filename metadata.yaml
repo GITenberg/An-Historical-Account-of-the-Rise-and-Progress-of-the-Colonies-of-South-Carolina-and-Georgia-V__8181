@@ -1,0 +1,25 @@
+_repo: An-Historical-Account-of-the-Rise-and-Progress-of-the-Colonies-of-South-Carolina-and-Georgia-V__8181
+creator:
+  author:
+    agent_name: Hewatt, Alexander
+    aliases:
+    - Hewitt, Alexander
+    - Hewat, Alexander
+    gutenberg_agent_id: '2682'
+    url: http://www.gutenberg.org/2009/agents/2682
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'South Carolina -- History -- Colonial period, ca. 1600-1775'
+- !lcsh 'Georgia -- History -- Colonial period, ca. 1600-1775'
+title: An Historical Account of the Rise and Progress of the Colonies of South Carolina
+  and Georgia, Volume 2
+url: http://www.gutenberg.org/ebooks/8181
