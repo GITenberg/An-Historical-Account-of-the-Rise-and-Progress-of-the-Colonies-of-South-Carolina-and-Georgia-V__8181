@@ -1,4 +1,8 @@
 _repo: An-Historical-Account-of-the-Rise-and-Progress-of-the-Colonies-of-South-Carolina-and-Georgia-V__8181
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hewatt, Alexander
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2682'
     url: http://www.gutenberg.org/2009/agents/2682
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8181#An-Historical-Account-of-the-Rise-and-Progress-of-the-Colonies-of-South-Carolina-and-Georgia-V_
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
